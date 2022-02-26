@@ -1,2 +1,2 @@
 # Examples
-Examles from lections
+Examples from lections
