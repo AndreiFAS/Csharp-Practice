@@ -26,8 +26,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-bin/
-obj/
+
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -364,3 +363,16 @@ API
 Training
 Blog
 About
+
+# Добавил сам
+Example001_HelloConsole/
+Example002_HelloUser/
+Example003_Summa/
+Example004_Div/
+Example005_IfElse/
+Example006_Base/
+Example007_DotMagic/
+Example008_IntroMethod/
+Example009_IntroArray/
+Example010_MethodArray/
+Example011_ArrayLibrary/
