@@ -1,0 +1,15 @@
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\bin\Debug\net6.0\Example007_DotMagic.exe
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\bin\Debug\net6.0\Example007_DotMagic.deps.json
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\bin\Debug\net6.0\Example007_DotMagic.runtimeconfig.json
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\bin\Debug\net6.0\Example007_DotMagic.dll
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\bin\Debug\net6.0\Example007_DotMagic.pdb
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.csproj.AssemblyReference.cache
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.AssemblyInfoInputs.cache
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.AssemblyInfo.cs
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.csproj.CoreCompileInputs.cache
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.dll
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\refint\Example007_DotMagic.dll
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.pdb
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\Example007_DotMagic.genruntimeconfig.cache
+C:\Users\ApkoH\Desktop\GB\C#\Examples\Example007_DotMagic\obj\Debug\net6.0\ref\Example007_DotMagic.dll
