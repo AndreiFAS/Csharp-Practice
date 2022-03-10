@@ -9,10 +9,10 @@ int Y1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите координату Z первой точки: ");
 int Z1 = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите координату Y второй точки: ");
+Console.Write("Введите координату X второй точки: ");
 int X2 = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите координату Х второй точки: ");
+Console.Write("Введите координату Y второй точки: ");
 int Y2 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введите координату Z второй точки: ");
