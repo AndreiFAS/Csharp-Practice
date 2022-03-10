@@ -9,13 +9,13 @@ int Y1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите координату Z первой точки: ");
 int Z1 = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите координату Y первой точки: ");
+Console.Write("Введите координату Y второй точки: ");
 int X2 = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите координату Х первой точки: ");
+Console.Write("Введите координату Х второй точки: ");
 int Y2 = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите координату Z первой точки: ");
+Console.Write("Введите координату Z второй точки: ");
 int Z2 = Convert.ToInt32(Console.ReadLine());
 
 // 2D = корень((X1-X2)^2 + (Y1-Y2)^2)  3D = корень(2D^2 + (Z1-Z2)^2) = корень((корень((X1-X2)^2 + (Y1-Y2)^2))^2 + (Z1-Z2)^2)
