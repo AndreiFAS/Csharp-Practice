@@ -20,11 +20,11 @@ void PrintArray(int[] col)
     }
 }
 
-int even (int[] col)
+int even(int[] col)
 {
 for (int i = 0; i < col.Length; i++)
     {
-       if((col[i] % 2) == 0) count++;
+       if(col[i] % 2 == 0) count++;
     }
 return count;  
 }
