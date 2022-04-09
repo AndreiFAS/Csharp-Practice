@@ -1,7 +1,7 @@
 ﻿// Задача 56: Задайте прямоугольный двумерный массив. Напишите программу, 
 // которая будет находить строку с наименьшей суммой элементов.
 
-int[,] mass = new int[5, 8];
+int[,] mass = new int[8, 5];
 int lineNumber = 1;
 int minSumm = 0;
 
@@ -30,7 +30,7 @@ void PrintArray(int[,] array)
 
 int LinesSumm(int[,] array)
 {
-    for (int j = 0; j < array.GetLength(0); j++)
+    for (int j = 0; j < array.GetLength(1); j++)
     {
         minSumm += array[0, j];
     }
